@@ -65,7 +65,7 @@ fun RolarDado(){
          text = "Play whit me",
          fontFamily = FontFamily.Cursive,
          textAlign = TextAlign.Center,
-         fontSize = 75.sp,
+         fontSize = 40.sp,
          modifier = Modifier.fillMaxWidth()
              .padding(top = 65.dp),
          color = Color.Magenta,
